@@ -1,3 +1,6 @@
+# control
+space -> reset
+
 # build the project 
 clone or download this repo\
 cd to the location\ 
