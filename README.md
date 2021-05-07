@@ -12,5 +12,5 @@ the jar should be in\
 desktop/build/libs\
 and you can run it
 
-i just use this tutorial lol but in java
+i just translate this tutorial to java\
 https://youtu.be/HyK_Q5rrcr4
